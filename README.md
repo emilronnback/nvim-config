@@ -1,0 +1,1 @@
+Neovim cofig using lazyvim
